@@ -1,5 +1,3 @@
-# blockfreight
-
 Blockfreight™ | The blockchain of global freight.
 =================================================
 
